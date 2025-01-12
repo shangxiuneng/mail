@@ -1,0 +1,8 @@
+target/
+pom.xml.tag
+
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
